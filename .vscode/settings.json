@@ -1,3 +1,9 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "C:\\Users\\Lucas\\Documents\\ESTUDOS\\DBT\\dbt-tutorial-course\\venv\\Scripts\\python.exe",
+    "dbt.dbtPythonPathOverride": "C:\\Users\\Lucas\\Documents\\ESTUDOS\\DBT\\dbt-tutorial-course\\venv\\Scripts\\python.exe",
+    "dbt.allowListFolders": [
+        "answers",
+        "lessons"
+    ]
 }
